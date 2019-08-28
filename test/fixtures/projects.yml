@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  clientlink: MyString
+  repolink: MyString
+  screenshot: MyString
+  description: MyString
+
+two:
+  name: MyString
+  clientlink: MyString
+  repolink: MyString
+  screenshot: MyString
+  description: MyString
